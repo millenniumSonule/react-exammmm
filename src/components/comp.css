@@ -1,0 +1,21 @@
+.nav-bar-cointainer {
+    padding: 10px;
+    width: 100vw;
+}
+.nav-items {
+    display: flex;
+    padding: 10px;
+    list-style: none;
+    justify-content: space-around;
+
+}
+
+.nav-items a {
+    text-decoration: none;
+    color: inherit;
+
+}
+
+.nav-items .active {
+    font-weight: bold;
+}
