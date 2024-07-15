@@ -35,7 +35,7 @@ const Plp = () => {
                     </div>
                 ))}
             </div>
-        </div>
+        </div> 
     )
 }
 
