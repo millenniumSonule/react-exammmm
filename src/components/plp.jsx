@@ -6,6 +6,9 @@ const plp = () => {
             <div className="nav">
                 <Navbar/>
             </div>
+            <div className="input-box">
+                
+            </div>
         </div>
     )
 }
