@@ -30,8 +30,11 @@ const Plp = () => {
             <div className="input-box">
                 {products.map((item, index) => (
                     <div key={index} className="list-products">
-                        <p>{item.title}</p>
-                        <p>{item.category}</p>
+                        {/* <p>{item.title}</p>
+                        <p>{item.category}</p> */}
+                        <div className="product-box">
+                            
+                        </div>
                     </div>
                 ))}
             </div>
